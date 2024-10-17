@@ -3,9 +3,8 @@
 This project showcases a creative loading screen with animated squares and a blinking text effect. The loader features four rotating squares, each with unique colors and shape modifications, along with a glowing "Loading..." text that blinks in and out.
 
 ## Project Preview
+![17291722745207419672175379010942](https://github.com/user-attachments/assets/0110d69a-2ce6-4202-a038-1fc050b9da89)
 
-![Project Preview](URL-to-screenshot-or-gif)  
-*(Replace with a screenshot or GIF of your project)*
 
 ## Features
 - Rotating squares with unique animations for each.
